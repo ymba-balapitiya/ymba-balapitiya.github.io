@@ -1,0 +1,236 @@
+html{
+	height: 100%;
+}
+
+h1{
+	/*font-size: 5em;*/
+	/*padding-bottom:0px;*/
+	/*margin-bottom: 0.1em;*/
+	/*font-weight: 600;*/
+}
+
+h2{
+	font-size: 2.5em;
+	margin-top: 1px;
+	/*font-weight: 600;*/
+}
+
+
+/*nav>div>ul>li>a{
+	color: #ecf0f1;
+}*/
+
+
+body{
+
+	color: #d42f41; 
+	/*#ecc7ad*/
+	/*font-family: 'Bree Serif';*/
+	
+
+
+	font-family: 'Amaranth';
+	
+	background-size:cover;
+	background-position: center; 
+
+
+	/*school 3 girls*/
+	/*background-image: url(https://images.unsplash.com/photo-1553013476-7b48a900b429?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80);*/
+	
+	/*purple fade */
+	/*background-image: url(https://images.unsplash.com/photo-1462536943532-57a629f6cc60?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1504&q=80);*/
+	
+	/*2 kids with uniform ... unsplash.com*/
+	/*background-image: url(https://images.unsplash.com/photo-1486280380840-0531135d75af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1502&q=80);*/
+	
+
+
+
+	/*background-image: url("photo-1486280380840-0531135d75af.jfif");*/
+	/*4 childeren playing with football*/
+	background-image: url("https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?ixlib=rb-1.2.1&auto=format&fit=crop&w=1446&q=80");
+
+	/*
+	*
+	*
+	*
+	right aligned books
+	
+	background-image: url("https://images.unsplash.com/photo-1516979187457-637abb4f9353?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80");
+	
+	
+
+	*
+	*
+	*
+	*/
+	
+	/*background-image: url("books-right-aligned.jfif");*/
+
+	
+	/*tbale stationaries*/
+	/*background-image: url("https://images.unsplash.com/photo-1456735190827-d1262f71b8a3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1496&q=80");*/
+
+
+
+	/*water tap 2 kids*/
+	/*background-image: url(https://images.unsplash.com/photo-1437914983566-976d85602771?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80);*/
+
+
+
+
+	/*background-size:cover;*/
+	/*background-position: center; */
+	
+
+
+
+	/*background-image: url(https://images.wallpaperscraft.com/image/surface_background_plain_black_50697_1366x768.jpg);*/
+	/*background-image: url(https://wallpaperstock.net/honeycomb-background-wallpapers_36560_1366x768.jpg);*/
+	/*padding-top:20%; */
+	/*background-color: #346a7b;*/
+}
+
+a{
+	color:#bac7be;	
+}
+
+#a-ash{
+	color:#bac7be;
+	padding-bottom: 0.7rem;
+	text-shadow:1px 1px 2px rgba(0,0,0,1),
+				0px 3px 4px rgba(0,0,0,0.4), 
+				0px 8px 13px rgba(0,0,0,0.1) , 
+				0px 10px 23px rgba(0,0,0,0.1);
+	
+
+}
+
+.navbar-toggle{
+	color: white;
+	border-color:#ecf0f1;
+}
+
+/*#content{
+	
+	padding-top: 15%;
+	text-align: center;
+
+}
+*/
+h1,h2{
+	text-shadow:1px 1px 2px rgba(245,245,245,1),
+				0px 3px 4px rgba(0,0,0,0.4), 
+				0px 8px 13px rgba(0,0,0,0.1) , 
+				0px 10px 23px rgba(0,0,0,0.1);
+
+}
+/*hr {height:1px; border:none; color:#000; background-color:#000; width:60%; text-align:center; margin: 0 auto;}*/
+
+hr{
+	/*border-top: 1px solid rgba(212,47,65,.25);*/
+	/*height: 1px;*/
+	box-shadow: 1px 1px 2px rgba(245,245,245,1),
+				0px 3px 4px rgba(0,0,0,0.4), 
+				0px 8px 13px rgba(0,0,0,0.1) , 
+				0px 10px 23px rgba(0,0,0,0.1);
+	/*border-bottom:0px 10px 23px rgba(0,0,0,0.82);*/
+	color:#d42f41; 
+	background-color:#d42f41;
+	width:70% ;
+	margin:0px;
+	margin-bottom: 2em;
+}
+
+.btn-outline-secondary{
+	color: #d42f41;
+    border-color: #d42f41;
+    text-shadow:1px 1px 2px rgba(245,245,245,0.1),
+				0px 3px 4px rgba(0,0,0,0.4), 
+				0px 8px 13px rgba(0,0,0,0.1);
+
+}
+
+.btn-outline-secondary:hover {
+    color: rgba(245,245,245,0.1);
+    background-color: #d42f41;
+    border-color: #d42f41;
+
+}
+
+.btn:hover{
+	color: rgba(245,245,245,1);
+	/*color: #d42f41;*/
+}
+
+/*2019.05.30*/
+
+.bg-secondary{
+	background-color: #ab1021!important;
+}
+/*
+.navbar-light .navbar-brand {
+    color: #ded7d7;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #ded7d7 ;
+    
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #ded7d7;
+}*/
+
+.form-control{
+	border-color:#d42f4166;
+}
+
+
+
+.container{
+	margin-top: 1em;
+	margin-bottom: 1em;
+	padding: 2em;
+	/*border: 2px solid #d42f41;*/
+	/*width:75%;*/
+	/*background-image: url("photo-1486280380840-0531135d75af.jfif");*/
+
+}
+
+
+#admin_cont{
+	margin-top: 1em;
+	margin-bottom: 1em;
+	padding: 2em;
+	border: 2px solid #d42f41;
+	width:75%;
+	font-family:"Arial";
+
+}
+.container-fluid{
+	margin-top: 1em;
+	margin-bottom: 1em;
+	padding: 4em;
+	padding-top: 2em;
+	/*border: 2px solid #d42f41;*/
+	/*width:75%;*/
+	
+	
+
+	/*background-image: url("https://images.unsplash.com/photo-1516979187457-637abb4f9353?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80");*/
+
+
+
+
+	/*background-image: url("https://images.unsplash.com/photo-1510531704581-5b2870972060?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1504&q=80");*/
+	/*opacity: 0.5;
+ 	filter: alpha(opacity=50); */
+	
+}
+
+.form-control:focus{
+	border-color:#d42f41;
+	box-shadow: 0 0 0 0.2rem rgba(212,47,65,.25); 
+}
